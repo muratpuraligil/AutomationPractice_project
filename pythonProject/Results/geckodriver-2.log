@@ -1,0 +1,8 @@
+1615460493496	geckodriver	INFO	Listening on 127.0.0.1:60706
+1615460496559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PaleFace\\AppData\\Local\\Temp\\rust_mozprofile1TlEBf"
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+[GFX1-]: shader-cache: Failed to write program binary: Diskte yeterli yer yok. (os error 112)
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+[Child 24416, Main Thread] WARNING: 

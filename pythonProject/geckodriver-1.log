@@ -1,0 +1,13 @@
+1615469637443	geckodriver	INFO	Listening on 127.0.0.1:51887
+1615469640486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PaleFace\\AppData\\Local\\Temp\\rust_mozprofileGNyeJG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615469646126	Marionette	INFO	Listening on port 51895
+1615469646574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615469646602	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615472533441	Marionette	INFO	Stopped listening on port 51895
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
