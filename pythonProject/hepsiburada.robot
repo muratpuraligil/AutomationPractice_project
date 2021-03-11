@@ -1,8 +1,9 @@
 
-# Aşağıdaki komut ile robot çalıştırılır.(browser ve mail parametreleri girilmelidir.)  #https://www.mohmal.com/tr  den mail üretilirek email üretilebilir.
-# -v Browser:Chrome -v email:qvhszeds@sharklasers.com -d Results  proje.robot
-# (Chrome ve Firefox için parametrik olarak geliştirildi.)
-# (-d Results parametresi robot raporlarının export edileceği dosyadır.)
+# Aşağıdaki komut ile robot çalıştırılır.(browser ve mail parametreleri girilmelidir.)  # https://www.mohmal.com/tr  den mail üretilirek email üretilebilir.
+# -v Browser:Chrome -v email:117e19428e@firemailbox.club -d Results  hepsiburada.robot
+# (Chrome ve Firefox için parametrik yapıldı.)
+# (-d Results parametresi ile de raporlar Results dosyasına export edilmektedir.)
+
 *** Settings ***
 Resource  ./Resources/conf.robot
 Library  SeleniumLibrary

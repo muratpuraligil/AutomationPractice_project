@@ -1,5 +1,5 @@
 *** Variables ***
-${email}    30d9249c11@firemailbox.club   #https://www.mohmal.com/tr  den mail üretilirek email parametresi elle girilir. #not: diğer değişkenler conf.robot dosyası içindedir...
+${email}    4d52dd023b@firemailbox.club   #https://www.mohmal.com/tr  den mail üretilirek email parametresi elle girilir. #not: diğer değişkenler conf.robot dosyası içindedir...
 ${Browser}  Firefox   # Chrome & Firefox
 
 ${homepage}  http://automationpractice.com/
